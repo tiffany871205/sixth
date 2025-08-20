@@ -1,0 +1,21 @@
+@media (max-width: 768px){
+.side-width{
+  max-width: 100%;
+}
+
+.nav-link{
+  padding: 12px 12px;;
+  font-size: 14px;
+}
+}
+
+@media (min-width: 992px){
+.side-width{
+  width: 300px;
+}
+
+.nav-link{
+  padding: 12px 20px;;
+}
+}
+
