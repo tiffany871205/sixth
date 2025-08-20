@@ -1,3 +1,11 @@
+.fz-14{
+  font-size: 14px;
+}
+
+.mb-21{
+  margin-bottom: 21px;
+}
+
 @media (max-width: 768px){
 .side-width{
   max-width: 100%;
@@ -7,6 +15,20 @@
   padding: 12px 12px;;
   font-size: 14px;
 }
+
+.reserve-left-btn{
+  padding: 12px 12px;
+  font-size: 14px;
+}
+
+.table-head{
+  font-size: 14px;
+
+  th{
+    padding-top: 11.5px;
+    padding-bottom: 11.5px;
+  }
+}
 }
 
 @media (min-width: 992px){
@@ -15,7 +37,20 @@
 }
 
 .nav-link{
-  padding: 12px 20px;;
+  padding: 12px 20px;
+}
+
+.reserve-left-btn{
+  padding: 12px 20px;
+}
+
+.table-head{
+  font-size: 14px;
+
+  th{
+    padding-top: 11.5px;
+    padding-bottom: 11.5px;
+  }
 }
 }
 
